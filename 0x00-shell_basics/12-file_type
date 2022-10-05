@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "iamfine" > /tmp/iamfine
+file /tmp/iamfine
