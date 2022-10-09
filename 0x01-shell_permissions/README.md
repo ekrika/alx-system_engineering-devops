@@ -31,13 +31,13 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 * How to create a user
 * How to create a group
-* How to print real and effective user and group IDs
+* How to print real and effective user and group IDs 
 * How to print the groups a user is in
 * How to print the effective userid
 
 
-[feynman learning technique][1]
-[1]: https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg/ "Title"
+[feynman learning technique] [1]
+[1] :https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg/ "Title"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
