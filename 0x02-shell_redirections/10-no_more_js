@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "*.bak" -type f -delete
+find . -type f -name '*.j~' -print -delete
