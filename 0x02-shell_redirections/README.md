@@ -169,11 +169,3 @@ cat sample_data_1.txt | awk '{if(NR==25) print}'
 <a href="https://stackoverflow.com/users/ekrikakenny@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ekrikakenny@gmail.com" height="30" width="40" /></a>
 
 </p>
-
-
-
-
-
-
-
-
